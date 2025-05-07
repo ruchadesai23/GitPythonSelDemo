@@ -1,0 +1,13 @@
+the browser initialisation or closing should not be part of the testcase
+include this in a fixture --> should be in conftest file
+#declare the scope to class in fixture
+#to run testcases from any browser in runtime from command line
+#command in CMD = py.test --browser_name firefox
+
+to achieve the above inform pytest that we will be declaring command line arguments
+
+
+utilities hold common codes which can be reused for multiple tests
+eg. Baseclass
+wait mechanism
+select dropdown - using select keyword

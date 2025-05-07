@@ -1,0 +1,149 @@
+2025-05-03 11:54:38,129 :INFO :TestOne :Getting all card titles
+2025-05-03 11:54:38,396 :INFO :TestOne :Blackberry
+2025-05-03 11:54:39,074 :INFO :TestOne :entering country text - 'Ind'
+2025-05-03 11:54:45,186 :INFO :TestOne :text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2025-05-03 11:54:51,097 :INFO :TestHomePage :First name is Rucha
+2025-05-03 11:54:51,470 :INFO :TestHomePage :Email is hello@gmail.com
+2025-05-03 11:54:51,828 :INFO :TestHomePage :password is 12345
+2025-05-03 11:54:52,354 :INFO :TestHomePage :gender is Female
+2025-05-03 11:54:52,941 :INFO :TestHomePage :success message is ×
+Success! The Form has been submitted successfully!.
+2025-05-03 11:54:54,089 :INFO :TestHomePage :First name is siddhesh
+2025-05-03 11:54:54,320 :INFO :TestHomePage :Email is us@yopmail.com
+2025-05-03 11:54:54,538 :INFO :TestHomePage :password is 654123
+2025-05-03 11:54:54,985 :INFO :TestHomePage :gender is Male
+2025-05-03 11:54:55,328 :INFO :TestHomePage :success message is ×
+Success! The Form has been submitted successfully!.
+2025-05-03 11:59:09,407 :INFO :TestOne :Getting all card titles
+2025-05-03 11:59:09,609 :INFO :TestOne :Blackberry
+2025-05-03 11:59:10,288 :INFO :TestOne :entering country text - 'Ind'
+2025-05-03 11:59:16,332 :INFO :TestOne :text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2025-05-03 11:59:22,700 :INFO :TestHomePage :First name is Rucha
+2025-05-03 11:59:23,004 :INFO :TestHomePage :Email is hello@gmail.com
+2025-05-03 11:59:23,270 :INFO :TestHomePage :password is 12345
+2025-05-03 11:59:23,704 :INFO :TestHomePage :gender is Female
+2025-05-03 11:59:24,291 :INFO :TestHomePage :success message is ×
+Success! The Form has been submitted successfully!.
+2025-05-03 11:59:25,463 :INFO :TestHomePage :First name is siddhesh
+2025-05-03 11:59:25,745 :INFO :TestHomePage :Email is us@yopmail.com
+2025-05-03 11:59:26,074 :INFO :TestHomePage :password is 654123
+2025-05-03 11:59:26,490 :INFO :TestHomePage :gender is Male
+2025-05-03 11:59:26,802 :INFO :TestHomePage :success message is ×
+Success! The Form has been submitted successfully!.
+2025-05-03 12:01:03,561 :INFO :TestOne :Getting all card titles
+2025-05-03 12:01:03,731 :INFO :TestOne :Blackberry
+2025-05-03 12:01:04,394 :INFO :TestOne :entering country text - 'Ind'
+2025-05-03 12:01:10,636 :INFO :TestOne :text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2025-05-03 12:01:16,983 :INFO :TestHomePage :First name is Rucha
+2025-05-03 12:01:17,261 :INFO :TestHomePage :Email is hello@gmail.com
+2025-05-03 12:01:17,484 :INFO :TestHomePage :password is 12345
+2025-05-03 12:01:17,941 :INFO :TestHomePage :gender is Female
+2025-05-03 12:01:18,480 :INFO :TestHomePage :success message is ×
+Success! The Form has been submitted successfully!.
+2025-05-03 12:01:19,782 :INFO :TestHomePage :First name is siddhesh
+2025-05-03 12:01:20,087 :INFO :TestHomePage :Email is us@yopmail.com
+2025-05-03 12:01:20,500 :INFO :TestHomePage :password is 654123
+2025-05-03 12:01:21,008 :INFO :TestHomePage :gender is Male
+2025-05-03 12:01:21,537 :INFO :TestHomePage :success message is ×
+Success! The Form has been submitted successfully!.
+2025-05-05 17:09:29,173 :INFO :TestOne :Getting all card titles
+2025-05-05 17:09:29,321 :INFO :TestOne :Blackberry
+2025-05-05 17:09:29,892 :INFO :TestOne :entering country text - 'Ind'
+2025-05-05 17:09:35,920 :INFO :TestOne :text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2025-05-05 17:09:42,769 :INFO :TestHomePage :First name is Rucha
+2025-05-05 17:09:43,074 :INFO :TestHomePage :Email is hello@gmail.com
+2025-05-05 17:09:43,399 :INFO :TestHomePage :password is 12345
+2025-05-05 17:09:43,835 :INFO :TestHomePage :gender is Female
+2025-05-05 17:09:44,212 :INFO :TestHomePage :success message is ×
+Success! The Form has been submitted successfully!.
+2025-05-05 17:09:45,317 :INFO :TestHomePage :First name is siddhesh
+2025-05-05 17:09:45,477 :INFO :TestHomePage :Email is us@yopmail.com
+2025-05-05 17:09:45,679 :INFO :TestHomePage :password is 654123
+2025-05-05 17:09:45,959 :INFO :TestHomePage :gender is Male
+2025-05-05 17:09:46,226 :INFO :TestHomePage :success message is ×
+Success! The Form has been submitted successfully!.
+2025-05-05 17:21:15,974 :INFO :TestOne :Getting all card titles
+2025-05-05 17:21:16,158 :INFO :TestOne :Blackberry
+2025-05-05 17:21:16,835 :INFO :TestOne :entering country text - 'Ind'
+2025-05-05 17:21:22,839 :INFO :TestOne :text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2025-05-05 17:21:29,587 :INFO :TestHomePage :First name is Rucha
+2025-05-05 17:21:29,938 :INFO :TestHomePage :Email is hello@gmail.com
+2025-05-05 17:21:30,303 :INFO :TestHomePage :password is 12345
+2025-05-05 17:21:30,747 :INFO :TestHomePage :gender is Female
+2025-05-05 17:21:31,247 :INFO :TestHomePage :success message is ×
+Success! The Form has been submitted successfully!.
+2025-05-05 17:21:32,339 :INFO :TestHomePage :First name is siddhesh
+2025-05-05 17:21:32,501 :INFO :TestHomePage :Email is us@yopmail.com
+2025-05-05 17:21:32,673 :INFO :TestHomePage :password is 654123
+2025-05-05 17:21:32,950 :INFO :TestHomePage :gender is Male
+2025-05-05 17:21:33,246 :INFO :TestHomePage :success message is ×
+Success! The Form has been submitted successfully!.
+2025-05-05 17:43:47,648 :INFO :TestOne :Getting all card titles
+2025-05-05 17:43:47,797 :INFO :TestOne :Blackberry
+2025-05-05 17:43:48,646 :INFO :TestOne :entering country text - 'Ind'
+2025-05-05 17:43:55,099 :INFO :TestOne :text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2025-05-05 17:44:13,575 :INFO :TestHomePage :First name is Rucha
+2025-05-05 17:44:13,758 :INFO :TestHomePage :Email is hello@gmail.com
+2025-05-05 17:44:13,821 :INFO :TestHomePage :password is 12345
+2025-05-05 17:44:14,101 :INFO :TestHomePage :gender is Female
+2025-05-05 17:44:14,723 :INFO :TestHomePage :success message is ×
+Success! The Form has been submitted successfully!.
+2025-05-05 17:44:18,046 :INFO :TestHomePage :First name is siddhesh
+2025-05-05 17:44:18,143 :INFO :TestHomePage :Email is us@yopmail.com
+2025-05-05 17:44:18,237 :INFO :TestHomePage :password is 654123
+2025-05-05 17:44:18,599 :INFO :TestHomePage :gender is Male
+2025-05-05 17:44:18,965 :INFO :TestHomePage :success message is ×
+Success! The Form has been submitted successfully!.
+2025-05-05 18:02:38,038 :INFO :TestOne :Getting all card titles
+2025-05-05 18:02:38,231 :INFO :TestOne :Blackberry
+2025-05-05 18:02:39,105 :INFO :TestOne :entering country text - 'Ind'
+2025-05-05 18:02:45,430 :INFO :TestOne :text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2025-05-05 18:02:51,986 :INFO :TestHomePage :First name is Rucha
+2025-05-05 18:02:52,330 :INFO :TestHomePage :Email is hello@gmail.com
+2025-05-05 18:02:52,700 :INFO :TestHomePage :password is 12345
+2025-05-05 18:02:53,177 :INFO :TestHomePage :gender is Female
+2025-05-05 18:02:53,621 :INFO :TestHomePage :success message is ×
+Success! The Form has been submitted successfully!.
+2025-05-05 18:02:54,754 :INFO :TestHomePage :First name is siddhesh
+2025-05-05 18:02:54,983 :INFO :TestHomePage :Email is us@yopmail.com
+2025-05-05 18:02:55,241 :INFO :TestHomePage :password is 654123
+2025-05-05 18:02:55,594 :INFO :TestHomePage :gender is Male
+2025-05-05 18:02:55,912 :INFO :TestHomePage :success message is ×
+Success! The Form has been submitted successfully!.
+2025-05-05 18:33:23,226 :INFO :TestHomePage :First name is Rucha
+2025-05-05 18:33:23,351 :INFO :TestHomePage :Email is hello@gmail.com
+2025-05-05 18:33:23,437 :INFO :TestHomePage :password is 12345
+2025-05-05 18:33:23,577 :INFO :TestHomePage :gender is Female
+2025-05-05 18:33:23,757 :INFO :TestHomePage :success message is ×
+Success! The Form has been submitted successfully!.
+2025-05-05 18:33:24,112 :INFO :TestHomePage :First name is siddhesh
+2025-05-05 18:33:24,184 :INFO :TestHomePage :Email is us@yopmail.com
+2025-05-05 18:33:24,290 :INFO :TestHomePage :password is 654123
+2025-05-05 18:33:24,388 :INFO :TestHomePage :gender is Male
+2025-05-05 18:33:24,486 :INFO :TestHomePage :success message is ×
+Success! The Form has been submitted successfully!.
+2025-05-05 19:41:49,104 :INFO :TestHomePage :First name is Rucha
+2025-05-05 19:41:49,226 :INFO :TestHomePage :Email is hello@gmail.com
+2025-05-05 19:43:20,027 :INFO :TestHomePage :First name is Rucha
+2025-05-05 19:43:20,135 :INFO :TestHomePage :Email is hello@gmail.com
+2025-05-05 19:44:50,789 :INFO :TestHomePage :First name is Rucha
+2025-05-05 19:44:50,891 :INFO :TestHomePage :Email is hello@gmail.com
+2025-05-05 19:45:53,439 :INFO :TestHomePage :First name is Rucha
+2025-05-05 19:45:53,542 :INFO :TestHomePage :Email is hello@gmail.com
+2025-05-05 19:45:53,623 :INFO :TestHomePage :password is 123456
+2025-05-05 19:45:53,768 :INFO :TestHomePage :gender is Female
+2025-05-05 19:45:53,944 :INFO :TestHomePage :success message is ×
+Success! The Form has been submitted successfully!.
+2025-05-05 19:46:20,095 :INFO :TestHomePage :First name is Rucha
+2025-05-05 19:46:20,202 :INFO :TestHomePage :Email is hello@gmail.com
+2025-05-05 19:46:20,391 :INFO :TestHomePage :password is 123456
+2025-05-05 19:46:20,519 :INFO :TestHomePage :gender is Female
+2025-05-05 19:46:20,698 :INFO :TestHomePage :success message is ×
+Success! The Form has been submitted successfully!.
