@@ -59,3 +59,5 @@ class TestOne(BaseClass):
         success_message = confirm_page.success_message().text
         log.info("text received from application is " + success_message)
         assert "Success! Thank you!" in success_message
+
+        print("Hello! World.")
