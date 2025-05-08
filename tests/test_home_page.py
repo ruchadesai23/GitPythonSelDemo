@@ -45,3 +45,4 @@ class TestHomePage(BaseClass):
 # in the test data package here.
     print("Hello! World.")
     print("changes by architect1 in develop branch")
+    print("changes by architect2 - git stuff in develop branch")
